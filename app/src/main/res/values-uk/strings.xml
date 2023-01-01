@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PassWarden</string>
+    <string name="copied">Скопійовано!</string>
+    <string name="saved">Збережено!</string>
+    <string name="site">Сайт</string>
+    <string name="username">Юзернейм</string>
+    <string name="password">Пароль</string>
+    <string name="generate">Створити</string>
+    <string name="save">Зберегти</string>
+    <string name="clear">Очистити</string>
+    <string name="tap">Натисніть на пароль, щоб зкопіювати</string>
+    <string name="fill">Спочатку заповніть поля</string>
+    <string name="example_text">Приклад</string>
+    <string name="example_password">123qwe</string>
+</resources>

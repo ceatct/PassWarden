@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PassWarden</string>
+    <string name="copied">Copied!</string>
+    <string name="saved">Saved!</string>
+    <string name="site">Site</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="tap">Tap to password for copy</string>
+    <string name="fill">Fill in the fields first</string>
+    <string name="example_text">Example</string>
+    <string name="example_password">123qwe</string>
+</resources>
